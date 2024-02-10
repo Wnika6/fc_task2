@@ -1,0 +1,17 @@
+.nav {
+	display: flex;
+	height: 70px;
+	background-color: #2b2b2b;
+	align-items: center;
+}
+.nav-link {
+	color: #ffffff;
+}
+
+.nav-link:active {
+	font-weight: bold;
+}
+
+.nav-list {
+	display: flex;
+}
